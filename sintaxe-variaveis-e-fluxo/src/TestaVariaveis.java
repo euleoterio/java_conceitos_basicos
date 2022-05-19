@@ -6,6 +6,6 @@ public class TestaVariaveis {
 
 		int idade = 37;
 
-		System.out.println("a idade é " + idade + ", parabéns!");
+		System.out.println("a idade eh: " + idade + ", parabens!");
 	}
 }
